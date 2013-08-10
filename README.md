@@ -1,7 +1,7 @@
 Horse License
 =============
 
-Horse License is a highy permissive license for open source software.
+Horse License is a highly permissive license for open source software.
 
 Summary
 -------
