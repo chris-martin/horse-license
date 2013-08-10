@@ -1,5 +1,5 @@
-Horse License (Version 0.1)
-=============================
+Horse License (Version 0.1 DRAFT)
+=================================
 
 PREAMBLE
 ----------
