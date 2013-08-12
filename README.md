@@ -1,3 +1,5 @@
+![Horse logo](./horse-logo.svg)
+
 Horse License
 =============
 
