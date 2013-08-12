@@ -14,8 +14,3 @@ Summary
 
 * This is a checklist
 
-Versions
---------
-
-Version 0.1 is currently in draft.
-
