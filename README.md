@@ -1,4 +1,4 @@
-![Horse logo](horse-logo.svg)
+![Horse logo](http://chris-martin.github.io/horse-license/horse-logo-200px.png)
 
 Horse License
 =============
