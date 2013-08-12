@@ -1,4 +1,4 @@
-![Horse logo](./horse-logo.svg)
+![Horse logo](horse-logo.svg)
 
 Horse License
 =============
